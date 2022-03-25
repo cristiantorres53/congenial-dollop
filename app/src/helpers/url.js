@@ -1,0 +1,1 @@
+export const url = "https://datavehiculosv1.herokuapp.com/ingresos/"

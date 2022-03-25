@@ -1,9 +1,12 @@
 import React from "react";
-import { Nav,  Navbar, Container } from "react-bootstrap";
+import Forms from "../components/Forms";
+
 
 function HomePage() {
   return (
-   <div>hola</div>
+    <div>
+        <Forms/>
+    </div>
   );
 }
 

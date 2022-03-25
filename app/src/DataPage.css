@@ -1,0 +1,5 @@
+.div-cards{
+    gap: 5%;
+    display: flex;
+    padding: 5%;
+}
